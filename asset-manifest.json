@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tourism-agent-system/static/css/main.e6c13ad2.css",
+    "main.js": "/tourism-agent-system/static/js/main.98fac235.js",
+    "static/js/453.6351c60c.chunk.js": "/tourism-agent-system/static/js/453.6351c60c.chunk.js",
+    "index.html": "/tourism-agent-system/index.html",
+    "main.e6c13ad2.css.map": "/tourism-agent-system/static/css/main.e6c13ad2.css.map",
+    "main.98fac235.js.map": "/tourism-agent-system/static/js/main.98fac235.js.map",
+    "453.6351c60c.chunk.js.map": "/tourism-agent-system/static/js/453.6351c60c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.98fac235.js"
+  ]
+}
